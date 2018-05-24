@@ -1,0 +1,5 @@
+C:\Users\Anthony Labour\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Anthony Labour\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Anthony Labour\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Anthony Labour\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Anthony Labour\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
